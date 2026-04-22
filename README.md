@@ -24,9 +24,13 @@ python_quest_save.json
 
 ## 🧱 Project Structure
 .
+
 ├── python_quest.py
+
 ├── python_quest_save.json
+
 └── README.md
+
 
 ## 🎓 Learning Path
 1. Linux + Python Basics
